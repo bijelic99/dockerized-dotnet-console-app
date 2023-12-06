@@ -1,0 +1,5 @@
+version: '3'
+
+services:
+  my-container:
+    image: dockerized-console-app-image:0.0.1
